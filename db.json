@@ -1,0 +1,81 @@
+{
+  "routeData":[
+        {
+            "content": "涨跌排行",
+            "route": "/quote/QuoteActivity",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "智能诊股",
+            "route": "https://stock.9fzt.com/ai/diagnosis.html",
+            "iconUri": "https://img0.baidu.com/it/u=2429428002,1050076261&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=503"
+        },
+        {
+            "content": "委托交易",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "智能选股",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "智能K线",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "热门板块",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "筹码分布",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "自选股",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "我的卡券",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "vip服务",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "资讯",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "业务办理",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "我的权益",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "活动专区",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        },
+        {
+            "content": "更多",
+            "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
+        }
+    ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
