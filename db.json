@@ -44,6 +44,7 @@
         },
         {
             "content": "资讯",
+            "route": "/information/InformationActivity",
             "iconUri": "https://img.zcool.cn/community/0173375b0542d5a801209a85d22b72.png@1280w_1l_2o_100sh.png"
         },
         {
